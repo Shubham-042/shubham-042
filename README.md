@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1323" height="824" alt="image" src="https://github.com/user-attachments/assets/5712acfa-4a89-4379-b087-68dab7f9a214" />
+
 
 <!--
 **Shubham-042/shubham-042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
